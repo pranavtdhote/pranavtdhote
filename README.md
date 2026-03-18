@@ -164,7 +164,7 @@
   <a href="https://github.com/pranavtdhote">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/pranav-dhote">
+  <a href="https://linkedin.com/in/pranav-dhote-1412b4241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
