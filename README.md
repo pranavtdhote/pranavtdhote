@@ -1,9 +1,22 @@
+<!-- 🔥 3D HERO BACKGROUND -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <!-- 🔥 PREMIUM HEADER -->
+
 <h1 align="center">Hi 👋, I'm Pranav Dhote</h1>
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | GATE Aspirant</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Problem+Solver;GATE+Aspirant;React+%2B+Node+Developer;Building+Real+World+Projects;Consistent+Learner&center=true&width=650&height=50">
+</p>
+
+<!-- 🔥 3D GLOW LINE -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:92fe9d&height=3"/>
 </p>
 
 <p align="center">
@@ -15,29 +28,37 @@
 
 ## ⚡ About Me
 
-- 🎓 B.Tech IT Student  
-- 📚 Preparing for **GATE + Product-Based Companies**  
-- 💻 Solving **DSA daily (LeetCode + CodeChef)**  
-- 🌱 Building **Full Stack Applications (MERN + Java)**  
-- 🚀 Focused on **writing clean, scalable code**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Clean+Code+%7C+Scalable+Apps+%7C+Consistency;Building+Future+Ready+Projects&center=true&width=500&height=40">
+</p>
+
+* 🎓 B.Tech IT Student
+* 📚 Preparing for **GATE + Product-Based Companies**
+* 💻 Solving **DSA daily (LeetCode + CodeChef)**
+* 🌱 Building **Full Stack Applications (MERN + Java)**
+* 🚀 Focused on **writing clean, scalable code**
 
 ---
 
 ## 🎯 Current Focus
 
-- 📌 Mastering **Data Structures & Algorithms**
-- 📌 Building **Production-Level Full Stack Projects**
-- 📌 Strengthening **Core CS Concepts (DBMS, OS, CN)**
-- 📌 Preparing for **Technical Interviews + GATE**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Mastering+DSA;Building+Real+Projects;Core+CS+Strong;Cracking+Top+Companies&center=true&width=500&height=40">
+</p>
+
+* 📌 Mastering **Data Structures & Algorithms**
+* 📌 Building **Production-Level Full Stack Projects**
+* 📌 Strengthening **Core CS Concepts (DBMS, OS, CN)**
+* 📌 Preparing for **Technical Interviews + GATE**
 
 ---
 
 ## 🧩 What I'm Working On
 
-- 🔹 Advanced **DSA Problem Solving**
-- 🔹 Enhancing **CharityConnect Blockchain Platform**
-- 🔹 Improving **Portfolio with 3D UI & Animations**
-- 🔹 Building **Real-world scalable apps**
+* 🔹 Advanced **DSA Problem Solving**
+* 🔹 Enhancing **CharityConnect Blockchain Platform**
+* 🔹 Improving **Portfolio with 3D UI & Animations**
+* 🔹 Building **Real-world scalable apps**
 
 ---
 
@@ -57,21 +78,25 @@
 ## 🧠 Tech Stack
 
 ### 💻 Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 </p>
 
 ### 🌐 Frontend
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend & Database
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### 🛠 Tools & Platforms
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
@@ -94,8 +119,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavtdhote&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavtdhote&layout=compact&theme=tokyonight&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavtdhote&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavtdhote&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" />
 </p>
 
 ---
@@ -111,7 +136,7 @@
 ## ⚡ GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavtdhote&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=pranavtdhote&theme=tokyonight&border_radius=20&hide_border=true" />
 </p>
 
 ---
@@ -119,7 +144,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pranavtdhote?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/pranavtdhote?theme=dark&font=Baloo&ext=heatmap,contest" />
 </p>
 
 ---
@@ -128,33 +153,34 @@
 
 ✨ **Highlighted Work:**
 
-🔹 💰 CharityConnect  
-→ Blockchain-based donation system (Solidity + React)  
+🔹 💰 CharityConnect
+→ Blockchain-based donation system (Solidity + React)
 
-🔹 🧠 DSA Repository  
-→ Structured problem solving for interviews  
+🔹 🧠 DSA Repository
+→ Structured problem solving for interviews
 
-🔹 ✈️ Flight Reservation System  
-→ Advanced DBMS + partitioning  
+🔹 ✈️ Flight Reservation System
+→ Advanced DBMS + partitioning
 
-🔹 📝 Quiz Application  
-→ Java + Servlets + DB integration  
+🔹 📝 Quiz Application
+→ Java + Servlets + DB integration
 
-🔹 ⚙️ CRUD Application  
-→ Backend + EJS + REST APIs  
+🔹 ⚙️ CRUD Application
+→ Backend + EJS + REST APIs
 
-🔹 🌐 Portfolio Website  
-→ Interactive UI + animations  
+🔹 🌐 Portfolio Website
+→ Interactive UI + animations
 
 ---
 
 ## 📊 Consistency Tracker
 
 📅 Daily Routine:
-- ✔ Solve DSA problems  
-- ✔ Work on projects  
-- ✔ Learn new concepts  
-- ✔ Improve code quality  
+
+* ✔ Solve DSA problems
+* ✔ Work on projects
+* ✔ Learn new concepts
+* ✔ Improve code quality
 
 ---
 
@@ -182,3 +208,9 @@
 ## ⚡ Mindset
 
 💡 **"Consistency + Deep Work + Smart Strategy = Top 1% Developer"**
+
+<!-- 🔥 3D FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=150&section=footer"/>
+</p>
