@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | GATE Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Problem+Solver;GATE+2026+Aspirant;React+%2B+Node+Developer;Building+Real+World+Projects;Consistent+Learner&center=true&width=650&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DSA+Problem+Solver;GATE+Aspirant;React+%2B+Node+Developer;Building+Real+World+Projects;Consistent+Learner&center=true&width=650&height=50">
 </p>
 
 <p align="center">
