@@ -1,6 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
-<rect width="900" height="300" rx="18" fill="#050b10"/>
-<text x="45" y="95" fill="#00c9ff" font-family="monospace" font-size="28" font-weight="700">GITHUB OVERVIEW</text>
-<text x="45" y="140" fill="#8aa7b2" font-family="monospace" font-size="16">Live repository / follower / star metrics</text>
-<text x="45" y="220" fill="#00c9ff" font-family="monospace" font-size="14">Generated automatically by GitHub Actions</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330"><rect width="900" height="330" rx="18" fill="#050b10"/>
+<text x="36" y="48" fill="#00c9ff" font-family="sans-serif" font-size="25" font-weight="700">GitHub Overview</text>
+<text x="42" y="95" fill="#8aa7b2" font-family="monospace" font-size="16">Repositories</text>
+<text x="620" y="95" fill="#00c9ff" font-family="monospace" font-size="17" text-anchor="end">39</text>
+<text x="42" y="137" fill="#8aa7b2" font-family="monospace" font-size="16">Followers</text>
+<text x="620" y="137" fill="#00c9ff" font-family="monospace" font-size="17" text-anchor="end">2</text>
+<text x="42" y="179" fill="#8aa7b2" font-family="monospace" font-size="16">Following</text>
+<text x="620" y="179" fill="#00c9ff" font-family="monospace" font-size="17" text-anchor="end">0</text>
+<text x="42" y="221" fill="#8aa7b2" font-family="monospace" font-size="16">Public stars</text>
+<text x="620" y="221" fill="#00c9ff" font-family="monospace" font-size="17" text-anchor="end">7</text>
+<text x="42" y="263" fill="#8aa7b2" font-family="monospace" font-size="16">Repository forks</text>
+<text x="620" y="263" fill="#00c9ff" font-family="monospace" font-size="17" text-anchor="end">0</text></svg>

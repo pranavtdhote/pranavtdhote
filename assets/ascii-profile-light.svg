@@ -1,6 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
-<rect width="900" height="300" rx="18" fill="#f6fbfd"/>
-<text x="45" y="95" fill="#007f9e" font-family="monospace" font-size="28" font-weight="700">PRANAV.EXE</text>
-<text x="45" y="140" fill="#4f6972" font-family="monospace" font-size="16">ASCII PROFILE • light mode</text>
-<text x="45" y="220" fill="#007f9e" font-family="monospace" font-size="14">Generated automatically by GitHub Actions</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 780">
+<rect width="900" height="780" rx="18" fill="#f6fbfd"/>
+<text x="36" y="42" fill="#007f9e" font-family="monospace" font-size="18">pranav@github:~$ whoami</text>
+<text x="36" y="70" fill="#4f6972" font-family="monospace" font-size="13">ASCII PROFILE • AUTO GENERATED</text>
+<text x="36" y="105" fill="#007f9e" font-family="monospace" font-size="12">::::::::::::::::::::::::::::::-#%%%%@%#%=:-=---=++++++===+=++++++==+++++</text>
+<text x="36" y="123" fill="#007f9e" font-family="monospace" font-size="12">:::::::::::::::::::::::::::::-%%%%%@@@%#*+=-====++++++==++++++===+++++**</text>
+<text x="36" y="141" fill="#007f9e" font-family="monospace" font-size="12">:::::::::::::::::::::::::::::+%%%%%%%%%###+-==++++++=+==++++===++++++***</text>
+<text x="36" y="159" fill="#007f9e" font-family="monospace" font-size="12">:::::::::::::::::::::::::::::*%%%#####*:=@#==++++====+++++==+++*+++++***</text>
+<text x="36" y="177" fill="#007f9e" font-family="monospace" font-size="12">:::::::::::::::::::::::::::::#%%%#*###+..++-=++====+++++++++++++++++****</text>
+<text x="36" y="195" fill="#007f9e" font-family="monospace" font-size="12">:::-:::::::::::::::::::::::--#%%##%%%%#*-===++==++++++++=++**++**+++****</text>
+<text x="36" y="213" fill="#007f9e" font-family="monospace" font-size="12">---=------..::::::---:.:-====*%%#*%%%%%@##*=++++++++++++++**+***********</text>
+<text x="36" y="231" fill="#007f9e" font-family="monospace" font-size="12">-=-=------: .::::.-===-.-==--=%%**#%@%*%%#*+++++++++++++****************</text>
+<text x="36" y="249" fill="#007f9e" font-family="monospace" font-size="12">===-------:...:...:==-=-.:--=+**++*%%#++*+*++++++++++++****************+</text>
+<text x="36" y="267" fill="#007f9e" font-family="monospace" font-size="12">======----:........:---=::-==+=+*++**##+=:++++++++++*******************+</text>
+<text x="36" y="285" fill="#007f9e" font-family="monospace" font-size="12">---===-===-......:::---======+++*++*###+--+++++++++********************+</text>
+<text x="36" y="303" fill="#007f9e" font-family="monospace" font-size="12">----==--=::-.....:---===+=+===++*++*##*+--++++++********************+==-</text>
+<text x="36" y="321" fill="#007f9e" font-family="monospace" font-size="12">-------==-:--:...:===+++++++++==*++**#*::=***************************+=-</text>
+<text x="36" y="339" fill="#007f9e" font-family="monospace" font-size="12">.::----=--:-==--===++++++++++==+****#%*:.+**********************++******</text>
+<text x="36" y="357" fill="#007f9e" font-family="monospace" font-size="12">. .-=-===-:-=+=++++++**+***+=-=***###%%=::=********************++****##%</text>
+<text x="36" y="375" fill="#007f9e" font-family="monospace" font-size="12">:--=+=+=++==++++++*********=-=+##***##=:::.:+*****************+****##%%%</text>
+<text x="36" y="393" fill="#007f9e" font-family="monospace" font-size="12">=+=-+++++++++=++++*******=---=*%#***#=.++-:..-*******************#%%%%%%</text>
+<text x="36" y="411" fill="#007f9e" font-family="monospace" font-size="12">++==+++****+*******++++#%=--==#@#***#+-%%+-: :***##************##%%%%%%%</text>
+<text x="36" y="429" fill="#007f9e" font-family="monospace" font-size="12">+++=++***+**********+*#@%+-:=#@%#***##%@@%+-.-%+==**********+*##%%%%%%%%</text>
+<text x="36" y="447" fill="#007f9e" font-family="monospace" font-size="12">+++++**************#%%@@%=---%@@%%###%%@@@#*-+%=.:*#********######%%##%#</text>
+<text x="36" y="465" fill="#007f9e" font-family="monospace" font-size="12">+****+*************%@@@@@#+--*@@@@@%@@@@@@%#*##=.=#*******##%%%%%%%%%%%%</text>
+<text x="36" y="483" fill="#007f9e" font-family="monospace" font-size="12">****+**********+++**%@@@@@%=-#@@@@@@@@@@@@%*#%%=-++*****##%%%%%%%###%%##</text>
+<text x="36" y="501" fill="#007f9e" font-family="monospace" font-size="12">***************++**#%@@@@%@*-#@@@@@@@@@@@@%*#%%+=++***###%%%%##%########</text>
+<text x="36" y="519" fill="#007f9e" font-family="monospace" font-size="12">*******************%@@@@@%%%+%@@@@@@@@@@@@%*#%%#**=*###%%%%%############</text>
+<text x="36" y="537" fill="#007f9e" font-family="monospace" font-size="12">************#####*#@@@@@@%%%#%@@@@@@@@@@@@%*#%%##*=#%%%%%%%%#%#######%%#</text>
+<text x="36" y="555" fill="#007f9e" font-family="monospace" font-size="12">*********########*#@@@@@@%%%%@@@@@@@@@@@@@%*#%%#%+=*%%%%%%%%%%%###%%%%##</text>
+<text x="36" y="573" fill="#007f9e" font-family="monospace" font-size="12">*******############@@%@@%%%%%@@@@@@@@@@@@@%*#%%##++=%%%%%%%%%%#%%%%%%#%#</text>
+<text x="36" y="591" fill="#007f9e" font-family="monospace" font-size="12">****#########%%###%%@%%%%@%%%@@@@@@@@@@@@@@##%%%#+-:*%%%%%%%%%%%%%%%%%%%</text>
+<text x="36" y="609" fill="#007f9e" font-family="monospace" font-size="12">***#######**######%%@%%%%@@%%@@@@@%%###%#####%%%%#..=%%%%%%%%%%%%%%%%%%%</text>
+<text x="36" y="627" fill="#007f9e" font-family="monospace" font-size="12">**##############%%%%@@%%%@@%%%%#*=--:::--:=*#%%%%%+.:#%%%%%%%%%%%%%%%%%%</text>
+<text x="36" y="645" fill="#007f9e" font-family="monospace" font-size="12">*#####%####%%%%%#%%%@@%%#%@%%%+-:::::-----=*#%%%%%%:.*%%%#####%*++**++**</text>
+<text x="36" y="663" fill="#007f9e" font-family="monospace" font-size="12">#########%%%%%%%#%%%%@@%#%@%%%+=---::::::-=##%%%%%%*:-*++=-==+++*******+</text>
+<text x="36" y="681" fill="#007f9e" font-family="monospace" font-size="12">#########%%%%%%%%%%%%%@@%%@@@%*=---:::::--+##%%%%%%@+.****##*###########</text>
+<text x="36" y="699" fill="#007f9e" font-family="monospace" font-size="12">#####%######*##*%%%%%%@@%#@@@@#==-----:---+##%%%%%%@+.=###############**</text>
+<text x="36" y="730" fill="#4f6972" font-family="monospace" font-size="13">Full-Stack • AI/GenAI • Web3</text>
 </svg>
