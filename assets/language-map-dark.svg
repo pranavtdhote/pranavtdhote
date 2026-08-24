@@ -1,6 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
-<rect width="900" height="300" rx="18" fill="#050b10"/>
-<text x="45" y="95" fill="#00c9ff" font-family="monospace" font-size="28" font-weight="700">LANGUAGE MAP</text>
-<text x="45" y="140" fill="#8aa7b2" font-family="monospace" font-size="16">Live repository language distribution</text>
-<text x="45" y="220" fill="#00c9ff" font-family="monospace" font-size="14">Generated automatically by GitHub Actions</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430"><rect width="900" height="430" rx="18" fill="#050b10"/>
+<text x="36" y="48" fill="#00c9ff" font-family="sans-serif" font-size="25" font-weight="700">Language Map</text>
+<text x="42" y="92" fill="#8aa7b2" font-family="monospace" font-size="15">Blade</text>
+<rect x="180" y="79" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="79" width="372.3" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="92" fill="#00c9ff" font-family="monospace" font-size="15">74.5%</text>
+<text x="42" y="132" fill="#8aa7b2" font-family="monospace" font-size="15">CSS</text>
+<rect x="180" y="119" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="119" width="75.6" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="132" fill="#00c9ff" font-family="monospace" font-size="15">15.1%</text>
+<text x="42" y="172" fill="#8aa7b2" font-family="monospace" font-size="15">TypeScript</text>
+<rect x="180" y="159" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="159" width="28.6" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="172" fill="#00c9ff" font-family="monospace" font-size="15">5.7%</text>
+<text x="42" y="212" fill="#8aa7b2" font-family="monospace" font-size="15">Python</text>
+<rect x="180" y="199" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="199" width="6.3" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="212" fill="#00c9ff" font-family="monospace" font-size="15">1.3%</text>
+<text x="42" y="252" fill="#8aa7b2" font-family="monospace" font-size="15">HTML</text>
+<rect x="180" y="239" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="239" width="4.6" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="252" fill="#00c9ff" font-family="monospace" font-size="15">0.9%</text>
+<text x="42" y="292" fill="#8aa7b2" font-family="monospace" font-size="15">JavaScript</text>
+<rect x="180" y="279" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="279" width="3.8" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="292" fill="#00c9ff" font-family="monospace" font-size="15">0.8%</text>
+<text x="42" y="332" fill="#8aa7b2" font-family="monospace" font-size="15">C++</text>
+<rect x="180" y="319" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="319" width="2.6" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="332" fill="#00c9ff" font-family="monospace" font-size="15">0.5%</text>
+<text x="42" y="372" fill="#8aa7b2" font-family="monospace" font-size="15">Jupyter Notebook</text>
+<rect x="180" y="359" width="500" height="16" rx="8" fill="#12303a"/>
+<rect x="180" y="359" width="2.4" height="16" rx="8" fill="#00c9ff"/>
+<text x="720" y="372" fill="#00c9ff" font-family="monospace" font-size="15">0.5%</text></svg>
