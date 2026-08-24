@@ -1,4 +1,4 @@
-name: Update Profile Visuals
+name: Update Profile
 
 on:
   workflow_dispatch:
@@ -9,34 +9,31 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  profile:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
-      - name: Install dependencies
-        run: python -m pip install --upgrade pip pillow
+      - name: Install Pillow
+        run: python -m pip install --upgrade pip Pillow
 
-      - name: Generate ASCII profile
+      - name: Generate animated terminal ASCII profile
         env:
           GITHUB_USERNAME: pranavtdhote
-        run: python scripts/generate_ascii.py
+        run: python scripts/generate_ascii_profile.py
 
-      - name: Generate GitHub stats and language map
-        env:
-          GITHUB_USERNAME: pranavtdhote
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_stats.py
-
-      - name: Generate contribution matrix
+      - name: Generate GitHub analytics
         env:
           GITHUB_USERNAME: pranavtdhote
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_contributions.py
+        run: python scripts/generate_github_assets.py
 
       - name: Commit generated assets
         run: |
@@ -44,8 +41,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/
           if git diff --cached --quiet; then
-            echo "No changes."
+            echo "No generated changes."
           else
-            git commit -m "chore: update profile visuals"
+            git commit -m "chore: refresh profile visuals"
             git push
           fi

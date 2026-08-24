@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220">
+<rect width="900" height="220" rx="18" fill="#050b10"/>
+<text x="35" y="75" fill="#00c9ff" font-family="monospace" font-size="25" font-weight="700">GITHUB OVERVIEW</text>
+<text x="35" y="115" fill="#8aa7b2" font-family="monospace" font-size="15">Generated automatically from GitHub API</text>
+<text x="35" y="165" fill="#3fb950" font-family="monospace" font-size="14">pranav@github:~$ waiting for GitHub Actions...</text>
+</svg>
