@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#f6fbfd"/>
+<text x="45" y="95" fill="#007f9e" font-family="monospace" font-size="28" font-weight="700">LANGUAGE MAP</text>
+<text x="45" y="140" fill="#4f6972" font-family="monospace" font-size="16">Live repository language distribution</text>
+<text x="45" y="220" fill="#007f9e" font-family="monospace" font-size="14">Generated automatically by GitHub Actions</text>
+</svg>

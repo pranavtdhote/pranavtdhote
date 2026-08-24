@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#050b10"/>
+<text x="45" y="95" fill="#00c9ff" font-family="monospace" font-size="28" font-weight="700">CONTRIBUTION MATRIX</text>
+<text x="45" y="140" fill="#8aa7b2" font-family="monospace" font-size="16">Run update-profile.yml to populate live data</text>
+<text x="45" y="220" fill="#00c9ff" font-family="monospace" font-size="14">Generated automatically by GitHub Actions</text>
+</svg>
